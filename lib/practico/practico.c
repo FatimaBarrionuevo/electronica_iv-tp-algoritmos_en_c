@@ -73,7 +73,7 @@ int32_t posicion_maximo(int32_t n,const int32_t *b)
 
     return k;
 }
-}
+
 
 /**
  * @brief Ordenar un arreglo de menor a mayor en el lugar
